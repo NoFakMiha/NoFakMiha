@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **miha.novak@outlook.de**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
