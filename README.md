@@ -2,9 +2,7 @@
 <h3 align="center">A passionate Cross-Platform App Developer from Austria</h3>
 
 
-- 🔭 I’m currently working on **Restaurants Search Adroid App**
-
-- 🌱 I’m currently learning **Flutter**
+- 🔭 I’m currently learnign Docker and Kubernetes
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/NoFakMiha?tab=repositories)
 
